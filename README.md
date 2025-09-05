@@ -10,3 +10,5 @@ Ao contrário de cursos mais guiados, esses desafios não fornecem um modelo ini
  • Consolidar os fundamentos de Python;
 
  • Registrar minha evolução na linguagem.
+
+-> Site onde estão localizados os exercicios: https://exercicios.dunossauro.com/
